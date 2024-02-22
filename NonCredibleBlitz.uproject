@@ -21,6 +21,10 @@
 		{
 			"Name": "SteamSockets",
 			"Enabled": true
+		},
+		{
+			"Name": "VRM4U",
+			"Enabled": true
 		}
 	]
 }
