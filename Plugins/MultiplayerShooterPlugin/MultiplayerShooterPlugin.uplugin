@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Multiplayer Shooter Plugin",
+	"Description": "Working fully replicated weapon system with a health and damage system",
+	"Category": "Online Multiplayer",
+	"CreatedBy": "vster",
+	"CreatedByURL": "",
+	"DocsURL": "https://youtube.com/playlist?list=PL5RfhyEEVNE59VtV626MXGXsE_LfccYKS",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/061176d2d7b34d289510d98672dddc2a",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MultiplayerShooterPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
